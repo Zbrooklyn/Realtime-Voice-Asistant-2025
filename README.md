@@ -3,7 +3,7 @@
 
 ---
 
-Realtime Voice Assistant 2025
+# Realtime Voice Assistant 2025
 
 A fully offline voice assistant that combines RealtimeSTT, Ollama, and RealtimeTTS (with Piper support) to provide real-time speech recognition, LLM responses, and text-to-speech playback.
 Runs on Linux (Raspberry Pi OS + KDE) and Windows.

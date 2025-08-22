@@ -1,26 +1,36 @@
 
-# Realtime Voice Assistant 2025
 
-A fully offline voice assistant that combines **RealtimeSTT**, **Ollama**, and **RealtimeTTS** (with Piper support) to provide real-time speech recognition, LLM responses, and text-to-speech playback.  
-Runs on **Linux (Raspberry Pi OS + KDE)** and **Windows**.
 
 ---
 
-## ✨ Features
+Realtime Voice Assistant 2025
 
-- 🎙️ **RealtimeSTT** – low-latency speech-to-text (STT)
-- 🧠 **Ollama** – run local LLMs with streaming response
-- 🔊 **RealtimeTTS (Piper)** – fast, high-quality offline text-to-speech (TTS)
-- ⚡ Works on **Linux (Raspberry Pi OS, Ubuntu, etc.)** and **Windows**
-- 🔌 Modular config for easy swapping of STT, TTS, or LLM engines
+A fully offline voice assistant that combines RealtimeSTT, Ollama, and RealtimeTTS (with Piper support) to provide real-time speech recognition, LLM responses, and text-to-speech playback.
+Runs on Linux (Raspberry Pi OS + KDE) and Windows.
+
 
 ---
 
-## 📦 Installation
+✨ Features
+
+🎙️ RealtimeSTT – low-latency speech-to-text (STT)
+
+🧠 Ollama – run local LLMs with streaming response
+
+🔊 RealtimeTTS (Piper) – fast, high-quality offline text-to-speech (TTS)
+
+⚡ Works on Linux (Raspberry Pi OS, Ubuntu, etc.) and Windows
+
+🔌 Modular config for easy swapping of STT, TTS, or LLM engines
+
+
+
+---
+
+📦 Installation
 
 Clone the repo and enter the project folder:
 
-```bash
 git clone https://github.com/Zbrooklyn/Realtime-Voice-Asistant-2025.git
 cd Realtime-Voice-Asistant-2025
 
@@ -129,7 +139,7 @@ RealtimeSTT
 
 RealtimeTTS
 
-Piper
+Piper TTS
 
 Ollama
 

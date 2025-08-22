@@ -1,0 +1,7 @@
+RealtimeSTT
+realtimetts[system]
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.26.4,<2.0
+requests>=2.31.0
+webrtcvad>=2.0.10
